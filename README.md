@@ -58,7 +58,7 @@ If you don't have enough resources to run it, you can use bitsnbytes to quantize
 
 ## Useful Links
 
-- :mag: :fire: [Cloud Version](https://app.docsgpt.cloud/)
+- :mag: :fire: ☁️ [Cloud Version](https://app.docsgpt.cloud/)
 
 - :speech_balloon: :tada: [Join our Discord](https://discord.gg/n5BX8dh8rU)
 
